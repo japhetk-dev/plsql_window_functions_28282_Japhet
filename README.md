@@ -197,7 +197,7 @@ Results show 2-3 classes with zero enrollment , typically specialized classes li
 In Kigali's market, morning classes (5-7 AM) struggle due to traffic patterns and most members prefer evening (6-8 PM) after work. 
 These empty slots waste instructor costs . Recommendation: Reschedule to peak times or replace with high-demand classes like HIIT or Zumba.
 
-**Screenshot:** *(See `/screenshots/RIGHTJOIN.png`)*
+**Screenshot:** ![Right Join](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/b5528a8cdc0f16110e6d8d7a87f84c5effd2e4f4/screenshots/RIGHTJOIN.png)
 
 ---
 
