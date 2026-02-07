@@ -139,7 +139,7 @@ ORDER BY p.payment_date DESC;
 **Business Interpretation:**  
 This query shows all active Stay Hard Gym members with successful payment records. 
 It reveals which membership tiers are most popular in Kigali , and which payment methods Rwandan customers prefer . 
-**Screenshot:** ![Inner Join]([screenshots/INNERJOIN](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/main/screenshots/INNERJOIN.png))
+**Screenshot:** ![Inner Join](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/de945a41a0b1e2c4a0b36d56898c58534636c4ba/screenshots/INNERJOIN.png)
 
 ---
 
