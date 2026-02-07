@@ -289,7 +289,8 @@ JOIN membership_payments p ON m.member_id = p.member_id
 GROUP BY member_name, district;
 ```
 
-**Interpretation:** Identifies Stay Hard Gym's top revenue contributors for VIP treatment and retention focus. 
+**Interpretation:** Identifies Stay Hard Gym's top revenue contributors for VIP treatment and retention focus.
+
 **Screenshot:** ![Ranking Function](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/bdcb563e4d6dad78fd97a7a634353f114ac25e38/screenshots/RankingFunction.png)
 
 ---
@@ -312,7 +313,7 @@ FROM monthly_revenue;
 ```
 
 **Interpretation:** Tracks Stay Hard Gym's financial growth trajectory in Kigali market with trend smoothing. 
-**Screenshot:** ![Aggregate Window Function](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/10f5280f7e3bbec9626d7fb0a1dd3e34bb627c60/screenshots/AggregateFunction.png)
+![Aggregate Window Function](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/10f5280f7e3bbec9626d7fb0a1dd3e34bb627c60/screenshots/AggregateFunction.png)
 
 ---
 
