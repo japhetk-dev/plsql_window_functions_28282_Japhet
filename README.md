@@ -234,7 +234,7 @@ This complete view reveals engagement gaps at Stay Hard Gym, showing both member
 It enables smarter resource reallocation by redesigning underused class slots and targeting non-participating members, 
 which is critical for maximizing facility utilization in Kigali’s premium real estate market.
 
-**Screenshot:** *(See `/screenshots/FULLJOIN.png`)*
+**Screenshot:** ![Full Outer Join](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/f4cf6aeefc9f3267bc412b0e94e814ceda4608fc/screenshots/FULLOUTERJOIN.png)
 
 ---
 
