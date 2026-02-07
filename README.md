@@ -169,7 +169,7 @@ accounting for 35–40% of active members and facing higher churn risk due to lo
 A targeted SMS campaign offering a free trial class could convert 20%, adding about RWF 180,000 per month in class fees while improving retention.
 
 
-**Screenshot:** *(See `/screenshots/LEFTJOIN.png`)*
+**Screenshot:** ![Left Join](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/68946d425f849339aefef947f433852ce54b3982/screenshots/LEFTJOIN.png)
 
 ---
 
