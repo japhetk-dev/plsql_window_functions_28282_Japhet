@@ -267,7 +267,7 @@ This compares members within Gasabo, Kicukiro, and Nyarugenge to understand dist
 Kicukiro skews toward Basic/Standard, Nyarugenge has higher Premium/VIP ratio. 
 This geographic intelligence guides location specific marketing: promote budget options in Kicukiro, emphasize premium features in Nyarugenge.
 
-**Screenshot:** *(See `/screenshots/05_self_join.png`)*
+**Screenshot:** ![Self Join](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/84b8284242ca0ef9bddc7a305a2fe9496ddc7b99/screenshots/SELFJOIN.png)
 
 ---
 
