@@ -289,7 +289,8 @@ JOIN membership_payments p ON m.member_id = p.member_id
 GROUP BY member_name, district;
 ```
 
-**Interpretation:** Identifies Stay Hard Gym's top revenue contributors for VIP treatment and retention focus.
+**Interpretation:** 
+Identifies Stay Hard Gym's top revenue contributors for VIP treatment and retention focus.
 
 **Screenshot:** ![Ranking Function](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/bdcb563e4d6dad78fd97a7a634353f114ac25e38/screenshots/RankingFunction.png)
 
