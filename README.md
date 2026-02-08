@@ -348,6 +348,7 @@ GROUP BY member_name;
 ```
 
 **Interpretation:** Segments 25 members into tiers for differentiated service levels and retention budgets.
+**Screenshot:** ![Distribution Function](https://github.com/japhetk-dev/plsql_window_functions_28282_Japhet/blob/33b7a2dcc5f8483ea465bce792a33ed597a550a6/screenshots/DistributionFunction.png)
 
 ---
 
