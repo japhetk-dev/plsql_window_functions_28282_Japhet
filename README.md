@@ -356,115 +356,110 @@ GROUP BY member_name;
 
 ### Descriptive Analysis: What Happened?
 
-1. **Revenue Performance (Jan-Nov 2024):**
-   - Total membership payments: **RWF 2,145,000** (~$1,600 USD)
-   - Average payment per transaction: **RWF 53,625** ($40 USD)
-   - Most popular payment method: **Mobile Money (65%)** - reflects Rwanda's cashless society
-   - Peak revenue month: **March 2024 (RWF 245,000)** - post-New Year resolution sustainability
+1. **Revenue Performance:**
+   - Total payments received: **RWF 2,145,000**
+   - Average payment amount: **RWF 53,625**
+   - Most used payment method: **Mobile Money (65%)**
+   - Best month for revenue: **March 2024**
 
-2. **Member Demographics:**
-   - **25 total members** across 3 Kigali districts
-   - **Gasabo dominates: 40%** of member base (largest population district)
-   - **Gender split: 52% Male, 48% Female** - excellent market balance
-   - **84% active retention rate** (21 active / 25 total) - above industry average (70-75%)
+2. **Member Information:**
+   - **25 total members** from 3 Kigali districts
+   - **Gasabo has most members (40%)**
+   - **Gender balance:** 52% Male, 48% Female
+   - **21 members are currently active** (84% retention)
 
-3. **Class Performance:**
-   - **Top 3 classes by enrollment:** Morning Cardio Blast, HIIT Training, Yoga & Flexibility
-   - **Premium classes underutilized:** Bodybuilding and CrossFit (high fees, specialist appeal)
-   - **Ladies Only Aerobics popular:** Reflects cultural preferences in Rwanda
-   - **Average class attendance rate: 92%** - high show-up ratio indicates strong engagement
+3. **Class Attendance:**
+   - **Most popular classes:** Morning Cardio, HIIT Training, and Yoga
+   - **Least popular classes:** Bodybuilding and CrossFit
+   - **Attendance rate:** 92% of people who enroll actually show up
+   - **Ladies Only Aerobics** is well attended
 
-4. **Membership Plan Distribution:**
-   - **Quarterly Standard (3-month): Most popular** - 40% of members
-   - **Annual VIP: Highest revenue per member** but only 12% adoption
-   - **Daily Pass: Minimal usage** - Rwandans prefer commitment plans
+4. **Membership Plans:**
+   - **Quarterly (3-month) plan is most popular** - 40% of members choose this
+   - **Annual VIP plan** brings in most money per member but few people buy it
+   - **Daily Pass** is rarely used
 
 ### Diagnostic Analysis: Why Did It Happen?
 
-1. **Mobile Money Dominance (65% of payments):**
-   - Rwanda is global leader in mobile financial services (MTN Mobile Money, Airtel Money)
-   - Cash-based economy declining - digital payments normalized
-   - Stay Hard Gym's Mobile Money integration was strategic and well-timed
+1. **Why Mobile Money is Popular:**
+   - Rwanda uses mobile money a lot (MTN Mobile Money, Airtel Money)
+   - People prefer digital payments over cash
+   - Stay Hard Gym made it easy to pay with mobile money
 
-2. **Quarterly Plan Popularity:**
-   - Aligns with Rwandan cultural preference for manageable commitments
-   - 3-month RWF 65,000 feels more affordable than RWF 200,000 annual upfront
-   - Quarterly renewals create natural engagement touchpoints for upselling
+2. **Why Quarterly Plans Sell Best:**
+   - RWF 65,000 for 3 months feels more affordable than RWF 200,000 upfront
+   - Members can try the gym for 3 months before committing long-term
+   - Every 3 months, members decide to renew, giving gym chance to improve service
 
-3. **Class Engagement Gap (35% never attend):**
-   - Some members intimidated by group classes (cultural shyness)
-   - Work schedules conflict with class times
-   - Lack of awareness of class value proposition
+3. **Why Some Members Don't Attend Classes:**
+   - Some members feel shy about group classes
+   - Work schedules don't match class times
+   - Some members don't know about all the available classes
 
-4. **March Revenue Peak:**
-   - New Year resolutions sustain into Q1 (January sign-ups pay February-March)
-   - Pre-summer body preparation mindset
-   - Not followed by typical summer drop - Rwanda's equatorial climate lacks seasons
+4. **Why March Had High Revenue:**
+   - New Year resolution members continued paying in February-March
+   - People preparing for healthier lifestyle
+   - More people joined in January-February
 
-5. **Gasabo District Dominance:**
-   - Largest population base in Kigali
-   - Growing middle class with disposable income
-   - Gym location likely in/near Gasabo
+5. **Why Gasabo Has Most Members:**
+   - Gasabo is the largest district in Kigali
+   - Many middle-class residents who can afford gym
+   - Gym might be located in or near Gasabo
 
 ### Prescriptive Analysis: What Should Be Done?
 
-#### Immediate Actions (0-30 days)
+#### Quick Actions (Next 30 Days)
 
-1. **Re-engage Non-Class Attendees (35% of active members):**
-   - **Action:** SMS campaign (Rwanda 95% mobile penetration) offering 1 free class trial
-   - **Target:** 8 members with zero class attendance
-   - **Script:** "Muraho [Name]! Stay Hard Gym imuhaye class imwe y'ubuntu. Book ubu: [link]"
-   - **Expected Impact:** 20% conversion = 2 members × RWF 15,000/month = **RWF 30,000/month** new revenue
-   - **ROI:** RWF 5,000 SMS campaign cost → 600% return
+1. **Get More Members to Attend Classes:**
+   - Send SMS to 8 members who never attended classes
+   - Offer them 1 free class to try
+   - Expected result: 2 members start attending = RWF 30,000/month extra income
 
-2. **Reschedule Underperforming Classes:**
-   - **Action:** Move empty morning slots (5-7 AM) to peak evening (6-8 PM)
-   - **Rationale:** Kigali traffic patterns - mornings congested, evenings feasible
-   - **Classes affected:** 2-3 slots currently vacant
-   - **Expected Impact:** 60% utilization → **RWF 90,000/month** from new enrollments
+2. **Fix Class Schedule:**
+   - Move morning classes (5-7 AM) to evening (6-8 PM)
+   - Reason: People have more time in evenings
+   - Expected result: More people attend = RWF 90,000/month extra
 
-3. **Mobile Money Incentive Program:**
-   - **Action:** 5% discount for Mobile Money payments
-   - **Rationale:** Reduce cash handling costs (security, time)
-   - **Expected Impact:** 80% Mobile Money adoption (from 65%), reduces cash-related costs by **RWF 15,000/month**
+3. **Encourage Mobile Money Use:**
+   - Give 5% discount for Mobile Money payments
+   - Saves gym time and money handling cash
+   - Expected result: 80% of people use Mobile Money
 
-#### Strategic Initiatives (30-90 days)
+#### Medium-Term Actions (Next 90 Days)
 
-4. **District-Specific Marketing:**
-   - **Gasabo (40% of members):** Maintain leadership with referral rewards (RWF 10,000 off for referring friend)
-   - **Kicukiro (growing market):** Targeted Instagram ads (high smartphone usage) promoting Budget/Standard plans
-   - **Nyarugenge (business district):** LinkedIn corporate wellness partnerships for VIP packages
-   - **Expected Impact:** 30% member growth in 90 days = **+7 members × RWF 65,000 avg = RWF 455,000** quarterly revenue boost
+4. **Marketing by District:**
+   - **Gasabo:** Offer RWF 10,000 discount when members refer friends
+   - **Kicukiro:** Use Instagram ads to attract new members
+   - **Nyarugenge:** Partner with companies for employee memberships
+   - Expected result: 7 new members = RWF 455,000 extra revenue
 
-5. **Premium Plan Upselling Campaign:**
-   - **Target:** Top 25% revenue contributors (Quartile 1 from NTILE analysis)
-   - **Offer:** Upgrade to Annual VIP for RWF 150,000 (vs standard RWF 200,000) - saves RWF 50,000
-   - **Value proposition:** Personal trainer 2x/month (worth RWF 80,000), priority booking, guest passes
-   - **Expected Impact:** 3 members upgrade → **RWF 450,000 immediate** + **RWF 37,500/month** recurring
+5. **Upgrade Current Members:**
+   - Target top 6 best-paying members (top 25%)
+   - Offer them Annual VIP at discount (RWF 150,000 instead of RWF 200,000)
+   - Expected result: 3 members upgrade = RWF 450,000 immediate payment
 
-6. **Introduce "Stay Hard Corporate" Program:**
-   - **Target:** Kigali businesses for employee wellness packages
-   - **Package:** 10+ employee group rate (15% discount)
-   - **Marketing:** Direct outreach to BK Group, Equity Bank, MTN Rwanda HR departments
-   - **Expected Impact:** 1 corporate contract (15 employees) = **RWF 1,237,500** annual revenue
+6. **Start Corporate Program:**
+   - Offer companies group discounts for 10+ employees
+   - Contact banks, telecom companies, and businesses
+   - Expected result: 1 company signs up = RWF 1,237,500/year
 
-#### Long-Term Strategy (90+ days)
+#### Long-Term Strategy (After 90 Days)
 
-7. **Predictive Churn Prevention:**
-   - **Action:** Use LAG() payment pattern analysis to flag members with payment gaps >45 days
-   - **Intervention:** Personal call from gym manager, flexible payment plan offer
-   - **Expected Impact:** Reduce churn by 50% (from 16% to 8%), retain **4 members/year = RWF 260,000** saved revenue
+7. **Prevent Members from Leaving:**
+   - Track when members stop paying on time
+   - Call them personally if payment is late by 45 days
+   - Offer flexible payment plans
+   - Expected result: Keep 4 members who would have left = RWF 260,000 saved
 
-8. **Data-Driven Class Portfolio Optimization:**
-   - **Action:** Replace bottom 2 classes (by RANK() analysis) with high-demand categories
-   - **Replacements:** More HIIT sessions (proven demand), Ladies-only strength training
-   - **Expected Impact:** 40% revenue increase per slot = **RWF 120,000/month**
+8. **Improve Class Offerings:**
+   - Replace 2 unpopular classes with more popular types
+   - Add more HIIT classes and Ladies-only strength training
+   - Expected result: RWF 120,000/month extra from better classes
 
-9. **Geographic Expansion Planning:**
-   - **Action:** Use district penetration analysis to identify expansion target
-   - **Next location:** Kicukiro (fastest-growing Kigali district, underserved)
-   - **Investment:** RWF 15,000,000 for 2nd location
-   - **Projected ROI:** Break-even in 18 months, **RWF 3,000,000/year** profit by year 3
+9. **Open Second Location:**
+   - Consider opening gym in Kicukiro (growing area, few gyms)
+   - Investment needed: RWF 15,000,000
+   - Expected result: Profit of RWF 3,000,000/year after 3 years
 
 ---
 
